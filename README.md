@@ -192,7 +192,7 @@ The project should be able to answer questions such as:
 
 * PostgreSQL
 * SQL
-* pgAdmin / DBeaver
+* pgAdmin
 * Git
 * GitHub
 
@@ -223,4 +223,4 @@ to:
 
 ---
 
-Built as part of my journey to become a better **Data Analyst / Data Professional**.
+Built as part of my journey to become a better **Data Analyst**.
